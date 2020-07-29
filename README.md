@@ -1,5 +1,5 @@
 # surfback
-A pymol script to use flat surface representation as background image
+A pymol script to use flat surface representation as the background image
 
 # Usage
 You have to load this  as usual 
