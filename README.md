@@ -17,9 +17,9 @@ ray 800,800
 png surfback.png
 
 
-#gallary
+# Gallery
 
 ![example1](1CZU_surfback.png)
 
-#Copyright
+# Copyright
 Copyright (c) 2020 Koya.S Released under the MIT license https://opensource.org/licenses/mit-license.php
