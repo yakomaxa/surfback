@@ -9,6 +9,9 @@ You have to load this  as usual
 # Sample PyMOL command
 
 fetch 1mbn
+
 surfback 800,800,orange
+
 ray 800,800
+
 png surfback.png
